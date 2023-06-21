@@ -17,11 +17,7 @@ To run this project, composer are needed and make sure you have imported the boo
 -   Run this command, to clone the project.
 
 ```
-git clone https://gitlab.com/budiprihhastomo/Book-Store-Laravel-With-Blade.git
-
--- or --
-
-git clone https://github.com/budiprihhastomo/Book-Store-Laravel-With-Blade.git
+git clone https://github.com/nickroger/books_test.git
 ```
 
 -   Run this command, to install dependency for running the application.
