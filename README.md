@@ -61,5 +61,5 @@ post
 
 ## 📝 License
 
-Copyright © 2020 Budi Prih Hastomo.
+Copyright © 2023 Nick Roger.
 This project is MIT licensed.
